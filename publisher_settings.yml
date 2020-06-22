@@ -1,0 +1,12 @@
+publisher:
+  name: PagoPA S.p.A.
+  description: |
+    PagoPA S.p.A. è una società partecipata dallo Stato creata allo scopo di diffondere i servizi digitali in Italia. La società è nata per effetto del Decreto Legge “Semplificazioni” (n. 135 del 14 dicembre del 2018), convertito in legge il 12 gennaio 2019, che prevede l’istituzione di “una società per azioni interamente partecipata dallo Stato”, vigilata dal Presidente del Consiglio dei ministri o del Ministro delegato.
+    La mission della società è la capillare diffusione del sistema di pagamenti e servizi digitali nel Paese, attraverso la gestione della piattaforma pagoPA per i pagamenti digitali verso la Pubblica Amministrazione e attraverso la gestione di progetti innovativi legati ai servizi pubblici come IO, l’app per i servizi pubblici e la Piattaforma digitale nazionale dati (PDND).
+  github_organization_url: github.com/pagopa
+  short_name: pagopa
+  website: https://www.pagopa.gov.it
+  tags:
+    - documents
+    - public
+  logo: assets/images/pagopa-logo-whitebg-primary_color-monochrome.svg

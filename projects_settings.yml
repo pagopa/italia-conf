@@ -1,0 +1,14 @@
+projects:
+  - name: Linee guida e regole tecniche
+    description: |
+      Documentazione tecnica della piattaforma pagoPA
+    documents:
+      - pagopa-docs-faq
+      - pagopa-avvisoanalogico-docs
+      - pagopa-codici-docs
+      - pagopa-specifichepagamenti-docs
+    short_name: pagopa_docs
+    website: https://pagopa.gov.it
+    tags:
+      - digital
+      - pagopa
